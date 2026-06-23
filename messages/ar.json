@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "offers": "العروض",
+    "deals": "العروض",
+    "cart": "السلة",
+    "login": "تسجيل الدخول",
+    "profile": "الملف الشخصي",
+    "orders": "طلباتي",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "search": "ابحث عن منتجات...",
+    "categories": "التصنيفات",
+    "promo": "🎉 خصم 20% على جميع المنتجات | كود: SHOP20"
+  },
+  "categories": {
+    "title": "تصفح التصنيفات",
+    "subtitle": "اكتشف المنتجات حسب الفئة",
+    "error": "حدث خطأ في تحميل التصنيفات",
+    "electronics": "إلكترونيات",
+    "fashion": "أزياء",
+    "home": "المنزل",
+    "beauty": "الجمال",
+    "sports": "رياضة",
+    "books": "كتب",
+    "toys": "ألعاب",
+    "food": "طعام"
+  },
+  "hero": {
+    "shopNow": "تسوق الآن",
+    "allProducts": "جميع المنتجات",
+    "slides": [
+      {
+        "title": "تشكيلة الصيف الجديدة",
+        "subtitle": "خصم يصل إلى 50%",
+        "description": "اكتشف أحدث صيحات الموضة لهذا الصيف مع تشكيلتنا الحصرية"
+      },
+      {
+        "title": "أحدث الإلكترونيات",
+        "subtitle": "تكنولوجيا متقدمة",
+        "description": "أحدث الأجهزة الإلكترونية والهواتف الذكية بأفضل الأسعار"
+      },
+      {
+        "title": "اهتم بمنزلك",
+        "subtitle": "تصاميم عصرية",
+        "description": "مستلزمات منزلية أنيقة تضفي لمسة جمالية على بيتك"
+      }
+    ]
+  },
+ "products": {
+    "title":      "المنتجات",
+    "featured":   "منتجات مميزة",
+    "viewAll":    "عرض الكل",
+    "addToCart":  "أضف للسلة",
+    "outOfStock": "غير متوفر",
+    "quickView":  "عرض سريع",
+    "currency":   "ج.م",
+    "noProducts": "لا توجد منتجات",
+    "error":      "حدث خطأ في تحميل المنتجات"
+  },
+  "cart": {
+    "title": "السلة",
+    "empty": "السلة فاضية",
+    "total": "الإجمالي",
+    "checkout": "إتمام الشراء",
+    "remove": "حذف",
+    "quantity": "الكمية"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "retry": "حاول مرة أخرى",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "search": "بحث"
+  },
+  "auth": {
+    "register": "إنشاء حساب",
+    "registerTitle": "انضم لـ E-Shop",
+    "registerSubtitle": "أنشئ حسابك وابدأ التسوق",
+    "name": "الاسم الكامل",
+    "namePlaceholder": "أحمد محمد",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "ahmed@example.com",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "6 أحرف على الأقل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "أعد كتابة كلمة المرور",
+    "haveAccount": "عندك حساب؟",
+    "login": "تسجيل الدخول",
+    "loginLink": "تسجيل الدخول",
+    "registering": "جاري إنشاء الحساب...",
+    "registerSuccess": "تم إنشاء الحساب بنجاح!",
+    "errors": {
+      "nameMin": "الاسم يجب أن يكون 3 أحرف على الأقل",
+      "nameMax": "الاسم يجب أن يكون 30 حرف على الأكثر",
+      "emailInvalid": "البريد الإلكتروني غير صحيح",
+      "passwordMin": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+      "passwordMismatch": "كلمات المرور غير متطابقة"
+    }
+  },
+  
+  "home": {
+    "newArrivals":    "وصل حديثاً",
+    "featuredTitle":  "منتجات مميزة",
+    "viewAll":        "عرض الكل",
+    "features": {
+      "freeShipping":     "شحن مجاني",
+      "freeShippingDesc": "شحن مجاني لجميع الطلبات فوق 500 ج.م",
+      "securePay":        "دفع آمن",
+      "securePayDesc":    "معاملات مشفرة وآمنة 100%",
+      "freeReturn":       "إرجاع مجاني",
+      "freeReturnDesc":   "إرجاع مجاني خلال 30 يوم",
+      "support":          "دعم 24/7",
+      "supportDesc":      "فريق دعم متاح على مدار الساعة"
+    },
+    "testimonials": {
+      "title":    "ماذا يقول عملاؤنا",
+      "subtitle": "آراء حقيقية من عملائنا",
+      "since":    "عميل منذ"
+    },
+    "deals": {
+      "title":    "عروض اليوم",
+      "subtitle": "عروض محدودة الوقت لا تفوتها",
+      "endsIn":   "ينتهي خلال",
+      "shopNow":  "تسوق الآن"
+    }
+  
+}
+}

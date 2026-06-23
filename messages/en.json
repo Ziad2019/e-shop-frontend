@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "offers": "Offers",
+    "deals": "Deals",
+    "cart": "Cart",
+    "login": "Login",
+    "profile": "Profile",
+    "orders": "My Orders",
+    "settings": "Settings",
+    "logout": "Logout",
+    "search": "Search for products...",
+    "categories": "Categories",
+    "promo": "🎉 20% off all products | Code: SHOP20"
+  },
+  "categories": {
+    "title": "Browse Categories",
+    "subtitle": "Discover products by category",
+    "error": "Failed to load categories",
+    "electronics": "Electronics",
+    "fashion": "Fashion",
+    "home": "Home & Living",
+    "beauty": "Beauty",
+    "sports": "Sports",
+    "books": "Books",
+    "toys": "Toys",
+    "food": "Food"
+  },
+  "hero": {
+    "shopNow": "Shop Now",
+    "allProducts": "All Products",
+    "slides": [
+      {
+        "title": "New Summer Collection",
+        "subtitle": "Up to 50% Off",
+        "description": "Discover the latest fashion trends this summer with our exclusive collection"
+      },
+      {
+        "title": "Latest Electronics",
+        "subtitle": "Advanced Technology",
+        "description": "The latest electronic devices and smartphones at the best prices"
+      },
+      {
+        "title": "Home Living",
+        "subtitle": "Modern Designs",
+        "description": "Elegant home essentials that add a beautiful touch to your home"
+      }
+    ]
+  },
+  "products": {
+    "title":      "Products",
+    "featured":   "Featured Products",
+    "viewAll":    "View All",
+    "addToCart":  "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "quickView":  "Quick View",
+    "currency":   "EGP",
+    "noProducts": "No products found",
+    "error":      "Failed to load products"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search"
+  },
+  "auth": {
+    "register": "Create Account",
+    "registerTitle": "Join E-Shop",
+    "registerSubtitle": "Create your account and start shopping",
+    "name": "Full Name",
+    "namePlaceholder": "Ahmed Mohamed",
+    "email": "Email",
+    "emailPlaceholder": "ahmed@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Min 6 characters",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter password",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login",
+     "login": "Login",
+    "registering": "Creating account...",
+    "registerSuccess": "Account created successfully!",
+    "errors": {
+      "nameMin": "Name must be at least 3 characters",
+      "nameMax": "Name must be at most 30 characters",
+      "emailInvalid": "Invalid email address",
+      "passwordMin": "Password must be at least 6 characters",
+      "passwordMismatch": "Passwords do not match"
+    }
+  },
+  
+  "home": {
+    "newArrivals":    "New Arrivals",
+    "featuredTitle":  "Featured Products",
+    "viewAll":        "View All",
+    "features": {
+      "freeShipping":     "Free Shipping",
+      "freeShippingDesc": "Free shipping on all orders over 500 EGP",
+      "securePay":        "Secure Payment",
+      "securePayDesc":    "100% encrypted and secure transactions",
+      "freeReturn":       "Free Returns",
+      "freeReturnDesc":   "Free returns within 30 days",
+      "support":          "24/7 Support",
+      "supportDesc":      "Support team available around the clock"
+    },
+    "testimonials": {
+      "title":    "What Our Customers Say",
+      "subtitle": "Real reviews from our customers",
+      "since":    "Customer since"
+    },
+    "deals": {
+      "title":    "Today's Deals",
+      "subtitle": "Limited time offers you can't miss",
+      "endsIn":   "Ends in",
+      "shopNow":  "Shop Now"
+    }
+}
+}
